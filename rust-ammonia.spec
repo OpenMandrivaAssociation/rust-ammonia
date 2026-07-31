@@ -5,8 +5,8 @@
 %global crate ammonia
 
 Name:           rust-%{crate}
-Version:        3.0.0
-Release:        2%{?dist}
+Version:        4.1.4
+Release:        1%{?dist}
 Summary:        HTML Sanitization
 
 # Upstream license specification: MIT OR Apache-2.0
